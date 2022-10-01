@@ -1,0 +1,5 @@
+*.java
+*.class
+*.error
+.vscode/
+build/
